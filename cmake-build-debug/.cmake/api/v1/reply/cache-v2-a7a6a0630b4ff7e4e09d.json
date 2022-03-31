@@ -2,6 +2,114 @@
 	"entries" : 
 	[
 		{
+			"name" : "Bataille-Navale_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/aboud/OneDrive/Documents/GitHub/Bataille-Navale/cmake-build-debug"
+		},
+		{
+			"name" : "Bataille-Navale_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Bataille-Navale_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/aboud/OneDrive/Documents/GitHub/Bataille-Navale"
+		},
+		{
+			"name" : "Bataille_Bavale_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/aboud/OneDrive/Documents/GitHub/Bataille-Navale/cmake-build-debug"
+		},
+		{
+			"name" : "Bataille_Bavale_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Bataille_Bavale_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/aboud/OneDrive/Documents/GitHub/Bataille-Navale"
+		},
+		{
+			"name" : "Bataille_Navale_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/aboud/OneDrive/Documents/GitHub/Bataille-Navale/cmake-build-debug"
+		},
+		{
+			"name" : "Bataille_Navale_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Bataille_Navale_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/aboud/OneDrive/Documents/GitHub/Bataille-Navale"
+		},
+		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -55,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/aboud/CLionProjects/bataille navale/cmake-build-debug"
+			"value" : "c:/Users/aboud/OneDrive/Documents/GitHub/Bataille-Navale/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +587,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/aboud/CLionProjects/bataille navale"
+			"value" : "C:/Users/aboud/OneDrive/Documents/GitHub/Bataille-Navale"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -707,7 +815,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "bataille_navale"
+			"value" : "Bataille-Navale"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1095,7 +1203,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/aboud/CLionProjects/bataille navale/cmake-build-debug"
+			"value" : "C:/Users/aboud/OneDrive/Documents/GitHub/Bataille-Navale/cmake-build-debug"
 		},
 		{
 			"name" : "bataille_navale_IS_TOP_LEVEL",
@@ -1119,7 +1227,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/aboud/CLionProjects/bataille navale"
+			"value" : "C:/Users/aboud/OneDrive/Documents/GitHub/Bataille-Navale"
 		}
 	],
 	"kind" : "cache",

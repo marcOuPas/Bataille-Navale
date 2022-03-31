@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "bataille_navale.exe"
+			"path" : "Bataille-Navale.exe"
 		},
 		{
-			"path" : "bataille_navale.pdb"
+			"path" : "Bataille-Navale.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -59,7 +59,7 @@
 			]
 		}
 	],
-	"id" : "bataille_navale::@6890427a1f51a3e7e1df",
+	"id" : "Bataille-Navale::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -79,8 +79,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "bataille_navale",
-	"nameOnDisk" : "bataille_navale.exe",
+	"name" : "Bataille-Navale",
+	"nameOnDisk" : "Bataille-Navale.exe",
 	"paths" : 
 	{
 		"build" : ".",
